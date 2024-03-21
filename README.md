@@ -1,4 +1,3 @@
-To create a random UUID...
 
 1. Install
   
